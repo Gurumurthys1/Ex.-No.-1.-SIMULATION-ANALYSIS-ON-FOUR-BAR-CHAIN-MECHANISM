@@ -19,6 +19,8 @@
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
 
+
+
 ## PROCEDURE:
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
@@ -58,6 +60,8 @@
 
 ### Name: GURUMURTHY S
 ### Register Number: 212223230066
+
+
 
 ## RESULT:
   Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
